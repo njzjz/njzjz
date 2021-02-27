@@ -22,7 +22,7 @@
 
 ## Publications
 
-- **Jinzhe Zeng**, Timothy J. Giese, ̧Sölen Ekesan, Darrin M. York\*, Development of range-corrected deep learning potentials for fast, accurate quantum mechanical/molecular mechanical simulations of chemical reactions in solution, ChemRxiv Preprint, 2021, DOI: [10.26434/chemrxiv.14120447](https://doi.org/10.26434/chemrxiv.14120447).
+- **Jinzhe Zeng**, Timothy J. Giese, ̧Sölen Ekesan, Darrin M. York\*, Development of Range-Corrected Deep Learning Potentials for Fast, Accurate Quantum Mechanical/molecular Mechanical Simulations of Chemical Reactions in Solution, ChemRxiv Preprint, 2021, DOI: [10.26434/chemrxiv.14120447](https://doi.org/10.26434/chemrxiv.14120447).
 - **Jinzhe Zeng**, Linfeng Zhang\*, Han Wang\*, Tong Zhu\*, Exploring the Chemical Space of Linear Alkanes Pyrolysis via Deep Potential GENerator, Energy & Fuels, 2021, 35 (1), 762-769, DOI: [10.1021/acs.energyfuels.0c03211](https://doi.org/10.1021/acs.energyfuels.0c03211).
 - **Jinzhe Zeng**, Liqun Cao, Mingyuan Xu, Tong Zhu\*, John Z. H. Zhang\*, Complex reaction processes in combustion unraveled by neural network-based molecular dynamics simulation, Nature Communications, 2020, 11, 5713, DOI: [10.1038/s41467-020-19497-z](https://doi.org/10.1038/s41467-020-19497-z).
 - Yuzhi Zhang, Haidi Wang, Weijie Chen, **Jinzhe Zeng**, Linfeng Zhang\*, Han Wang\*, Weinan E\*, DP-GEN: A concurrent learning platform for the generation of reliable deep learning based potential energy models, Comput. Phys. Commun, 2020, 253, 107206, DOI: [10.1016/j.cpc.2020.107206](https://doi.org/10.1016/j.cpc.2020.107206).
