@@ -9,16 +9,15 @@
 
 ## Work Experience
 
-- Paid Research Volunteer, East China Normal University, Sep 2017 - Jul 2019
-- Undergraduate Internship Course for 6 Credits, Shanghai Qiaokun Chemical Technology Co., LTD, Sep 2018 - Nov 2018
-- Summer Research Internship, Beijing Institute of Big Data Research, Jun 2019 - Jul 2019
-- Fellow, Rutgers University, Sep 2019 - Aug 2020
-- Graduate Assistant, Rutgers University, Aug 2020 - Present
+- Research Volunteer, East China Normal University, $150/month, Sep 2017 - Jul 2019
+- Undergraduate Internship Course for 6 Credits, Shanghai Qiaokun Chemical Technology Co., LTD, $340/month, Sep 2018 - Nov 2018
+- Summer Research Internship, Beijing Institute of Big Data Research, $1000/month, Jun 2019 - Jul 2019
+- Remained Fellow, Rutgers University, $3000/month, Sep 2019 - Aug 2020
+- Graduate Assistant, Rutgers University, $3000/month, Aug 2020 - Present
 
 ## Research
 
-- Combustion Mechanisms of Hydrocarbon Fuel Based on Deep Learning
-- ML-Potential for Simulations of Biochemical Reactions and Drug Discovery
+Develop deep learning potentials for simulations of different applications, including combustion of hydrocarbon fuels, RNA catalysis reactions, drug discovery, and precision medicine.
 
 ## Publications
 
