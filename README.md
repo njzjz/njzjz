@@ -1,6 +1,6 @@
 # Jinzhe Zeng
 
-[![Njzjz's github stats](https://github-readme-stats.vercel.app/api?username=njzjz&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/njzjz/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://githubtrends.io)
 
 ## Education
 
