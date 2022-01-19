@@ -34,7 +34,6 @@ jobs:
           plugin_discussions: yes
           plugin_followup: yes
           plugin_followup_sections: repositories
-          plugin_followup_indepth: yes
           plugin_notable: yes
           plugin_gists: yes
           plugin_habits: yes
