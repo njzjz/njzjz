@@ -1,6 +1,6 @@
 # Jinzhe Zeng
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/njzjz/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://githubtrends.io)
+[![Metrics](https://metrics.lecoq.io/njzjz?template=classic&isocalendar=1&languages=1&followup=1&achievements=1&discussions=1&lines=1&introduction=1&gists=1&tweets=1&isocalendar.duration=half-year&languages.limit=28&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&introduction.title=true&tweets.attachments=false&tweets.limit=2&tweets.user=njzjz&config.timezone=America%2FNew_York)](https://njzjz.win/cv/)
 
 ## Education
 
