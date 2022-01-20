@@ -25,9 +25,8 @@ jobs:
           # Options
           user: njzjz
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: America/New_York
-          metadata: no
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
