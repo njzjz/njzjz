@@ -21,6 +21,7 @@ Develop deep learning potentials for simulations of different applications, incl
 
 ## Publications
 
+- Liqun Cao, **Jinzhe Zeng**, Bo Wang, Tong Zhu\*, John Z.H. Zhang\*, Ab Initio Neural Network MD Simulation of Thermal Decomposition of High Energy Material CL-20/TNT, Physical Chemistry Chemical Physics, 2022, DOI: [10.1039/D2CP00710J](https://doi.org/10.1039/D2CP00710J). ![Citations](https://citations.njzjz.win/10.1039/D2CP00710J)
 - **Jinzhe Zeng**, Timothy J. Giese, ̧Sölen Ekesan, Darrin M. York\*, Development of Range-Corrected Deep Learning Potentials for Fast, Accurate Quantum Mechanical/molecular Mechanical Simulations of Chemical Reactions in Solution, Journal of Chemical Theory and Computation, 2021, 17 (11), 6993-7009, DOI: [10.1021/acs.jctc.1c00201](https://doi.org/10.1021/acs.jctc.1c00201). ![Citations](https://citations.njzjz.win/10.1021/acs.jctc.1c00201)
 - Liqun Cao, **Jinzhe Zeng**, Mingyuan Xu, Chih-Hao Chin, Tong Zhu\*, John ZH Zhang\*, Fragment-based Ab Initio Molecular Dynamics Simulation for Combustion, Molecules, 2021, 26 (11), 3120, DOI: [10.3390/molecules26113120](https://doi.org/10.3390/molecules26113120). ![Citations](https://citations.njzjz.win/10.3390/molecules26113120)
 - **Jinzhe Zeng**, Linfeng Zhang\*, Han Wang\*, Tong Zhu\*, Exploring the Chemical Space of Linear Alkanes Pyrolysis via Deep Potential GENerator, Energy & Fuels, 2021, 35 (1), 762-769, DOI: [10.1021/acs.energyfuels.0c03211](https://doi.org/10.1021/acs.energyfuels.0c03211). ![Citations](https://citations.njzjz.win/10.1021/acs.energyfuels.0c03211)
