@@ -1,7 +1,5 @@
 # Jinzhe Zeng
 
-[![Metrics](./github-metrics.svg)](https://njzjz.win/cv/)
-
 ## Education
 
 - B.S. in Chemistry, [East China Normal University](https://english.ecnu.edu.cn), Sep 2015 - Jul 2019
@@ -31,3 +29,4 @@ Develop deep learning potentials for simulations of different applications, incl
 - Shuaizhen Tian, **Jinzhe Zeng**, Xiao Liu\*, Jianzhong Chen, John ZH Zhang, Tong Zhu\*, Understanding the selectivity of inhibitors toward PI4KIIIα and PI4KIIIβ based molecular modeling, Physical Chemistry Chemical Physics, 2019, 21 (39), 22103-22112, DOI: [10.1039/C9CP03598B](https://doi.org/10.1039/C9CP03598B). [![Citations](https://citations.njzjz.win/10.1039/C9CP03598B)](https://badge.dimensions.ai/details/doi/10.1039/C9CP03598B)
 - Xin-Yue Han, Zi-Han Chen, **Jin-Zhe Zeng**, Qian-Xi Fan, Zheng-Qi Fang, Guoyue Shi, Min Zhang\*, Inorganic-Organic Hybrid Tongue-Mimic for Time-Resolved Luminescent Noninvasive Pattern and Chiral Recognition of Thiols in Biofluids toward Healthcare Monitoring, ACS Applied Materials & Interfaces, 2018, 10 (37), 31725-31734, DOI: [10.1021/acsami.8b13498](https://doi.org/10.1021/acsami.8b13498). [![Citations](https://citations.njzjz.win/10.1021/acsami.8b13498)](https://badge.dimensions.ai/details/doi/10.1021/acsami.8b13498)
 
+[![Metrics](./github-metrics.svg)](https://njzjz.win/cv/)
