@@ -20,7 +20,7 @@
 
 ## Research
 
-Develop deep learning potentials for simulations of different applications, including combustion of hydrocarbon fuels, RNA catalysis reactions, drug discovery, and precision medicine.
+Develop deep learning potentials for simulations of different applications, including combustion of hydrocarbon fuels, RNA catalysis reactions, and drug discovery.
 
 ## Publications
 
