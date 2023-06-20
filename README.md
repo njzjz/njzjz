@@ -12,8 +12,11 @@
 - Summer Research Internship, [Beijing Institute of Big Data Research](http://www.bibdr.org/en/), $1000/month, Jun 2019 - Jul 2019
 - [Rutgers University](https://www.rutgers.edu), Sep 2019 - Present
   - Remained Fellow, $3000/month, Sep 2019 - Aug 2020
-  - Graduate Assistant, $3000/month, Aug 2020 - June 2022, Sep 2022 - 
+  - Graduate Assistant, $3000/month, Aug 2020 - June 2022
   - Student Worker, $2000/month, July 2022 - Aug 2022
+  - Graduate Assistant, $3000/month, Sep 2022 - June 2023
+  - Coadjutant, $3000/month, July 2023 - Aug 2023
+  - Graduate Assistant, $3000/month, Sep 2023
 
 ## Research
 
