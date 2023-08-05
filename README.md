@@ -16,7 +16,7 @@
   - Student Worker, $2000/month, July 2022 - Aug 2022
   - Graduate Assistant, $3000/month, Sep 2022 - June 2023
   - Coadjutant, $3000/month, July 2023 - Aug 2023
-  - Graduate Assistant, $3000/month, Sep 2023 - Present
+  - Graduate Assistant, $3500/month, Sep 2023 - Present
 
 ## Research
 
