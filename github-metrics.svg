@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1598,7 +1598,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 39.5k out of 119m users</span>
+                                    <span class="gh">ranked 39.6k out of 120m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">221</div>
                                     </div>
@@ -1880,7 +1880,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 29.7k out of 119m users</span>
+                                    <span class="gh">ranked 29.7k out of 120m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">265</div>
                                     </div>
@@ -1921,7 +1921,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 36.5k out of 43.4m repositories</span>
+                                    <span class="gh">ranked 36.5k out of 44.1m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1208</div>
                                     </div>
