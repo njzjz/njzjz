@@ -445,7 +445,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 18.3 characters per line of code written</li>
+                        <li>Has approximately 17.2 characters per line of code written</li>
                         <li>Mostly pushes code around 17:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -1628,7 +1628,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 31k out of 140m users</span>
+                                    <span class="gh">ranked 31k out of 129m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">267</div>
                                     </div>
@@ -1910,7 +1910,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 25.6k out of 140m users</span>
+                                    <span class="gh">ranked 25.6k out of 129m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">344</div>
                                     </div>
@@ -1951,7 +1951,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 35.1k out of 193m repositories</span>
+                                    <span class="gh">ranked 35.1k out of 200m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1413</div>
                                     </div>
