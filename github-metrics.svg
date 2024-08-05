@@ -445,7 +445,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 179.0 characters per line of code written</li>
+                        <li>Has approximately 179.6 characters per line of code written</li>
                         <li>Mostly pushes code around 04:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -1935,7 +1935,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 35.1k out of 202m repositories</span>
+                                    <span class="gh">ranked 35.1k out of 200m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1424</div>
                                     </div>
