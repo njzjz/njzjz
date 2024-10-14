@@ -3,14 +3,14 @@
 ## Education
 
 - B.S. in Chemistry, [East China Normal University](https://english.ecnu.edu.cn), Sep 2015 - Jul 2019
-- PhD in Chemistry, [Rutgers University](https://www.rutgers.edu), Aug 2019 - Present
+- PhD in Chemistry, [Rutgers University](https://www.rutgers.edu), Aug 2019 - Jan 2025 (expected)
 
 ## Work Experience
 
 - Research Volunteer, [East China Normal University](https://english.ecnu.edu.cn), $150/month, Sep 2017 - Jul 2019
 - Undergraduate Internship Course for 6 Credits, [Shanghai Qiaokun Chemical Technology Co., LTD](http://www.shqkchem.com/), $340/month, Sep 2018 - Nov 2018
 - Summer Research Internship, [Beijing Institute of Big Data Research](http://www.bibdr.org/en/), $1000/month, Jun 2019 - Jul 2019
-- [Rutgers University](https://www.rutgers.edu), Sep 2019 - Present
+- [Rutgers University](https://www.rutgers.edu), Sep 2019 - Jan 2025 (expected)
   - Remained Fellow, $3000/month, Sep 2019 - Aug 2020
   - Graduate Assistant, $3000/month, Aug 2020 - June 2022
   - Student Worker, $2000/month, July 2022 - Aug 2022
@@ -18,7 +18,8 @@
   - Coadjutant, $3000/month, July 2023 - Aug 2023
   - Graduate Assistant, $3500/month, Sep 2023 - June 2024
   - Coadjutant, $3500/month, July 2024 - Aug 2024
-  - Graduate Assistant, $3500/month, Sep 2024 - ???
+  - Graduate Assistant, $3500/month, Sep 2024 - Jan 2025 (expected)
+- Tenure-track Assistant Professor, University of Science and Technology of China, Mar 2025 (expected)
 
 ## Research
 
