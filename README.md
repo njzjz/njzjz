@@ -3,7 +3,7 @@
 ## Education
 
 - B.S. in Chemistry, [East China Normal University](https://english.ecnu.edu.cn), Sep 2015 - Jul 2019
-- PhD in Chemistry, [Rutgers University](https://www.rutgers.edu), Aug 2019 - Jan 2025 (expected)
+- Ph.D. in Chemistry, [Rutgers University](https://www.rutgers.edu), Aug 2019 - Jan 2025
 
 ## Work Experience
 
@@ -18,7 +18,7 @@
   - Coadjutant, $3000/month, July 2023 - Aug 2023
   - Graduate Assistant, $3500/month, Sep 2023 - June 2024
   - Coadjutant, $3500/month, July 2024 - Aug 2024
-  - Graduate Assistant, $3500/month, Sep 2024 - Jan 2025 (expected)
+  - Graduate Assistant, $3500/month, Sep 2024 - Dec 2024
 - Tenure-track Assistant Professor, University of Science and Technology of China, Mar 2025 (expected)
 
 ## Research
