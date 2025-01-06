@@ -10,7 +10,7 @@
 - Research Volunteer, [East China Normal University](https://english.ecnu.edu.cn), $150/month, Sep 2017 - Jul 2019
 - Undergraduate Internship Course for 6 Credits, [Shanghai Qiaokun Chemical Technology Co., LTD](http://www.shqkchem.com/), $340/month, Sep 2018 - Nov 2018
 - Summer Research Internship, [Beijing Institute of Big Data Research](http://www.bibdr.org/en/), $1000/month, Jun 2019 - Jul 2019
-- [Rutgers University](https://www.rutgers.edu), Sep 2019 - Jan 2025 (expected)
+- [Rutgers University](https://www.rutgers.edu), Sep 2019 - Dec 2024
   - Remained Fellow, $3000/month, Sep 2019 - Aug 2020
   - Graduate Assistant, $3000/month, Aug 2020 - June 2022
   - Student Worker, $2000/month, July 2022 - Aug 2022
