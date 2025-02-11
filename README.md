@@ -19,7 +19,7 @@
   - Graduate Assistant, $3500/month, Sep 2023 - June 2024
   - Coadjutant, $3500/month, July 2024 - Aug 2024
   - Graduate Assistant, $3500/month, Sep 2024 - Dec 2024
-- Tenure-track Assistant Professor, University of Science and Technology of China, Mar 2025 (expected)
+- Tenure-track Assistant Professor, University of Science and Technology of China, Feb 2025 (expected)
 
 ## Research
 
